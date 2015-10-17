@@ -1,0 +1,2 @@
+# this file to be removed in favour of "--ignore-path .gitignore" when eslint 2.0 ships
+dist/
